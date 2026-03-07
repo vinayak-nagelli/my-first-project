@@ -1,5 +1,6 @@
 # calculator.py
-
+a=input("enter a value:")
+b=input("enter a value:")
 def add(a, b):
     return a + b
 
